@@ -1,6 +1,6 @@
 AI Content Generator
 
-A multi-stage AI agent system that generates high-quality content with full control over tone, type, and length. Built with GPT-4o and advanced prompt engineering techniques.
+A multi-stage AI system that generates high-quality content with full control over tone, type, and length. Built with GPT-4o and advanced prompt engineering techniques.
 
 ## Features
 
@@ -11,7 +11,7 @@ A multi-stage AI agent system that generates high-quality content with full cont
 - **Quality Assurance**: User satisfaction loop with regeneration option
 - **Auto File Saving**: Saves content to UTF-8 encoded text files
 
-## 🏗️Architecture
+## Architecture
 
 The system uses a multi-stage agent architecture:
 
